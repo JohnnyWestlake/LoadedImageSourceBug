@@ -7,7 +7,7 @@
       mc:Ignorable="d">
 
     <Page.Resources>
-        <brushes:LISImageTileBrush x:Key="LoadedImageSourceBrush" ImageUri="/Assets/t500.png" />
+        <brushes:LISImageTileBrush x:Key="LoadedImageSourceBrush" ImageUri="ms-appx:///Assets/t500.png" />
         <brushes:SLImageTileBrush x:Key="ManualImageSourceBrush" ImageUri="ms-appx:///Assets/t500.png" />
     </Page.Resources>
 
